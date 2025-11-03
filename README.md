@@ -6,7 +6,7 @@ The client requires a Road Accident Dashboard for the years 2021 and 2022 to pro
 
 **Objectives**
 
-The dashboard aims to: 
+_**The dashboard aims to:**_
 1. Track total casualties and accident counts across years. 
 2. Analyse accident severity, vehicle type, and location-based data. 
 3. Provide year-over-year (YoY) growth and monthly comparisons. 
