@@ -14,11 +14,11 @@ The dashboard aims to:
 
 **Key Requirements**
 
-Primary KPIs 
+_**Primary KPIs**_ 
 - Total Casualties and Total Accidents for the current year with YoY growth.
 - Total Casualties by Accident Severity for the current year and YoY growth. 
 
-Secondary KPIs
+_**Secondary KPIs**_
 - Total Casualties by Vehicle Type for the current year.
 - Trend Analysis: Monthly Comparison of casualties between the current year and the previous year.
 - Detailed Breakdowns
